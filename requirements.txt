@@ -74,7 +74,7 @@ ruamel.base==1.0.0
 scholarly==1.7.11
 scikit_learn==1.5.0
 selenium==4.22.0
-setuptools==70.0.0
+setuptools==78.1.1
 Shapely==2.0.5
 six==1.16.0
 StrEnum==0.4.15
