@@ -67,7 +67,7 @@ python_pptx==0.6.23
 qianfan==0.4.6
 readability_lxml==0.8.1
 redis==5.0.3
-Requests==2.32.2
+Requests==2.32.4
 replicate==0.31.0
 roman_numbers==1.0.2
 ruamel.base==1.0.0
