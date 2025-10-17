@@ -38,7 +38,7 @@
     "js-base64": "^3.7.5",
     "jsencrypt": "^3.3.2",
     "lodash": "^4.17.21",
-    "mammoth": "^1.7.2",
+    "mammoth": "^1.11.0",
     "rc-tween-one": "^3.0.6",
     "react-copy-to-clipboard": "^5.1.0",
     "react-force-graph": "^1.44.4",
