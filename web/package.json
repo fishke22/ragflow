@@ -37,7 +37,7 @@
     "immer": "^10.1.1",
     "js-base64": "^3.7.5",
     "jsencrypt": "^3.3.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mammoth": "^1.7.2",
     "rc-tween-one": "^3.0.6",
     "react-copy-to-clipboard": "^5.1.0",
